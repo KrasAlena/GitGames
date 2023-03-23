@@ -1,4 +1,4 @@
-# GitGames
+# GitPractice
 
 https://learngitbranching.js.org/?locale=ru_RU
 
